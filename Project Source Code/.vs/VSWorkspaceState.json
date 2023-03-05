@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HostelManagementSystem",
+    "\\HostelManagementSystem\\Resources",
+    "\\packages",
+    "\\packages\\Oracle.ManagedDataAccess.21.8.0",
+    "\\packages\\Oracle.ManagedDataAccess.EntityFramework.21.5.0"
+  ],
+  "SelectedNode": "\\HostelManagementSystem\\Form2.cs",
+  "PreviewInSolutionExplorer": false
+}
