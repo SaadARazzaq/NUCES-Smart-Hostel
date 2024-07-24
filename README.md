@@ -1,2 +1,2 @@
-# Hostel-Management-System_Database
+# NUCES Smart Hostel
  
